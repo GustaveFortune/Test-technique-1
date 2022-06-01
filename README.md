@@ -1,4 +1,7 @@
-# Fanprime
+# Test technique entretien
+
+![Image de référence à reproduire](/src/assets/maquette-fanroom.png)
+Créé à partir de l'image de référence ci-dessus
 
 Projet mis en place en environ 4h30.
 Points d'améliorations :
