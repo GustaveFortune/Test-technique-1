@@ -1,4 +1,4 @@
-# Test technique entretien
+# Test technique Front End (Vue 2 + Vuetify)
 
 ![Image de référence à reproduire](/src/assets/maquette-fanroom.png)
 Créé à partir de l'image de référence ci-dessus
